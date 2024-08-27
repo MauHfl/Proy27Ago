@@ -1,0 +1,60 @@
+*
+{
+    margin: 0px;
+}
+.padre
+{
+    width: 800px;
+    height: 600px;
+    background-color: red;
+    padding: 20px;
+    margin: 20px;
+}
+.hijo1
+{
+    background-color: orange;
+    width: 750px;
+    height: 500px;
+    margin: 10px;
+    padding: 10px;
+}
+.nieto
+{
+    background-color: yellow;
+    width: 650px;
+    height: 400px;
+    margin: 20px;
+    padding: 20px;
+}
+.bisnieto
+{
+    background-color: green;
+    width: 550px;
+    height: 300px;
+    margin: 20px;
+    padding: 20px;
+}
+.tataranieto
+{
+    background-color: rgb(1, 187, 255);
+    width: 450px;
+    height: 200px;
+    margin: 20px;
+    padding: 20px;
+}
+.sobrino
+{
+    background-color: blue;
+    width: 350px;
+    height: 100px;
+    margin: 20px;
+    padding: 20px;
+}
+.sobrino2
+{
+    background-color: purple;
+    width: 250px;
+    height: 0px;
+    margin: 20px;
+    padding: 20px;
+}
